@@ -1,0 +1,5 @@
+date,narration,amount,type
+2026-05-01,Swiggy Order,500,debit
+2026-05-02,Salary Credit,50000,credit
+2026-05-03,Uber Ride,300,debit
+2026-05-04,Amazon Purchase,1200,debit
